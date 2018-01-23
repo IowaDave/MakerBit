@@ -1,8 +1,24 @@
 # MakerBit
-A package designed for MakeCode with Roger Wagner's MakerBit for micro:bit
 
-We begin on January 15 2018.
-The goal of this project is a MakerBit package that can be imported into the MakeCode blocks-programming environment.
-Functions in the package to appear as blocks in the MakeCode (pxt) tool.
-Intent is to build first using JavaScript.
-Not built yet but desired: to refine certain timing-sensitive functions in C++.
+A MakeCode package for Roger Wagner's MakerBit
+
+## TODO
+
+- [ ] Add a reference for your blocks here
+- [ ] Add "icon.png" image (300x200) in the root folder
+- [ ] Add "- beta" to the GitHub project description if you are still iterating it.
+- [ ] Turn on your automated build on https://travis-ci.org
+- [ ] Use "pxt bump" to create a tagged release on GitHub
+- [ ] Get your package reviewed and approved https://makecode.microbit.org/packages/approval
+
+Read more at https://makecode.microbit.org/packages/build-your-own
+
+## License
+
+MIT
+
+## Supported targets
+
+* for PXT/microbit
+(The metadata above is needed for package search.)
+
