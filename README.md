@@ -2,6 +2,19 @@
 
 A MakeCode package for Roger Wagner's MakerBit
 
+At January 27, 2018 this package is under development. It can be tested in the standard, online, browser-based editor at  MakeCode.microbit.org by doing the following:
+
+Start a new project.
+In JavaScript view, expand the Explorer button and click the "+" sign to add a "custom.ts" module to the Explorer's drop-down list.
+
+Copy the contents of "main.ts" from this github repository over into the "custom.ts" module of the online browser project.
+
+Click on the "main.ts" module in the Explorer drop-down.
+
+Copy the contents of "test.ts" from this github repository over into the "main.ts" module of the online browser project.
+
+Switch the online browser to "Blocks" view. If all goes well, the MakerBit package and its blocks will be available for use.
+
 ## TODO
 
 - [ ] Add a reference for your blocks here
