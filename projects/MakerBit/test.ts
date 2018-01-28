@@ -11,4 +11,10 @@ basic.forever(() => {
     }
     MakerBit.stopMotorA()
     basic.pause(500)
+    MakerBit.speedAll(880)
+    MakerBit.allForward()
+    basic.pause(3000)
+    MakerBit.allStop()
+    basic.pause(3000)
+
 })
