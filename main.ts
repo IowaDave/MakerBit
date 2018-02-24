@@ -118,7 +118,7 @@ namespace MakerBit {
         } else if (speed < 0) {
             speedB = 0
         } else { speedB = speed }
-        pins.analogWritePin(AnalogPin.P13, speedA)
+        pins.analogWritePin(AnalogPin.P14, speedB)
     }
 
     /*
