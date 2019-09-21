@@ -15,17 +15,15 @@ Copy the contents of "test.ts" from this github repository over into the "main.t
 
 Switch the online browser to "Blocks" view. If all goes well, the MakerBit package and its blocks will be available for use.
 
-## TODO
+---
+### Note dated September 2019
+To the best of my knowledge this was the first github repostory to provide an extension package designed for Roger Wagner's MakerBit. I demonstrated it to him during a visit to his home in January 2018.
 
-- [ ] Add a reference for your blocks here
-- [ ] Add "icon.png" image (300x200) in the root folder
-- [ ] Add "- beta" to the GitHub project description if you are still iterating it.
-- [ ] Turn on your automated build on https://travis-ci.org
-- [ ] Use "pxt bump" to create a tagged release on GitHub
-- [ ] Get your package reviewed and approved https://makecode.microbit.org/packages/approval
+Roger and I agreed that he should seek help from other community members better prepared than I to develop the extension package. Happily, Philipp Henkel was willing to join the effort. Philipp forked this repo and soon produced a really good set of extensions. Thank you Philipp!
 
-Read more at https://makecode.microbit.org/packages/build-your-own
+I leave this repo existing for historical purposes, only. I do not plan to develop it further.
 
+---
 ## License
 
 MIT
